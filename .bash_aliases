@@ -1,5 +1,5 @@
 # some more ls aliases
-alias ll='ls -la | ccze -A'
+alias ll='ls -lah | ccze -A'
 alias la='ls -A'
 alias l='ls -CF'
 alias vi='vim'
