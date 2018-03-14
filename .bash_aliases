@@ -11,6 +11,7 @@ alias psg="ps aux | grep -v grep | grep -i -e VSZ -e"
 alias mkdir='mkdir -pv  '
 alias myip='curl http://ipecho.net/plain; echo'
 alias ..='cd ..'
+alias lolcat='/usr/games/lolcat'
 
 # Functions
 mcd() {
