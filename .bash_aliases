@@ -12,6 +12,7 @@ alias mkdir='mkdir -pv  '
 alias myip='curl http://ipecho.net/plain; echo'
 alias ..='cd ..'
 alias lolcat='/usr/games/lolcat'
+alias sl='/usr/games/sl'
 
 # Functions
 mcd() {
