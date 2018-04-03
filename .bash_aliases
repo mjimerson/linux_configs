@@ -13,6 +13,7 @@ alias myip='curl http://ipecho.net/plain; echo'
 alias ..='cd ..'
 alias lolcat='/usr/games/lolcat'
 alias sl='/usr/games/sl'
+alias agi="apt-get install -y"
 
 # Functions
 mcd() {
