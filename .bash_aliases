@@ -23,6 +23,7 @@ alias ..='cd ..'
 alias lolcat='/usr/games/lolcat'
 alias sl='/usr/games/sl'
 alias agi="apt-get install -y"
+alias passgen="date +%s | sha256sum | base64 | head -c 32; echo"
 
 # Functions
 mcd() {
