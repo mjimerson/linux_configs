@@ -8,3 +8,4 @@ filetype indent on
 set showmatch
 set hlsearch
 set incsearch
+set noeb vb t_vb=
