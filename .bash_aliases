@@ -20,11 +20,11 @@ alias psg="ps aux | grep -v grep | grep -i -e VSZ -e"
 alias mkdir='mkdir -pv  '
 alias myip='curl http://ipecho.net/plain; echo'
 alias ..='cd ..'
-alias lolcat='/usr/games/lolcat'
-alias sl='/usr/games/sl'
 alias agi="apt-get install -y"
 alias passgen="date +%s | sha256sum | base64 | head -c 32; echo"
 alias python=python3
+alias pip=pip3
+
 # Functions
 mcd() {
     mkdir -p $1
