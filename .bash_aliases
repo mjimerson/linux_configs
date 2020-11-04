@@ -8,7 +8,7 @@ COLOR_WHITE="\033[0;37m"
 COLOR_RESET="\033[0m"
 
 # some more ls aliases
-alias ll='ls -lah | ccze -A'
+alias ll='ls -lah'
 alias la='ls -A'
 alias l='ls -CF'
 alias vi='vim'
